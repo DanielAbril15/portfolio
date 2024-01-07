@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 62.5%;
+}
+.principal-color {
+  color: #f9a8a8;
+}
+.secondary-color {
+  color: #8cd4c2;
+}
